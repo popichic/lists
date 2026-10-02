@@ -1,0 +1,1269 @@
+#EXTM3U Canales EBU
+#EXTINF:-1 group-title="EBU"tvg-logo="",EBU
+
+#### Albania ####
+#EXTINF:-1 group-title="Albania"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDlJcZFdljlntSBY7F-xGSsVMod-fosOcwHpJ9y1SYBl9RpxYxeyprqOf", RTSH 1 HD
+http://79.106.48.2:8800/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Albania"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_frxvpoQfZNtWq7yNlRvLHSsSBCuY0a0nvb5Ij5uVtbAIRE028o1TR9A", RTSH 2 HD
+http://79.106.48.2:8800/play/a022/index.m3u8
+#EXTINF:-1 group-title="Albania"tvg-logo="https://live.staticflickr.com/65535/52594688543_52605593f4_q.jpg", RTSH 3
+
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Femijë
+http://217.73.139.200:5443/play/a00u
+#EXTINF:-1 group-title="Albania"tvg-logo="https://live.staticflickr.com/65535/52594688653_af801a274e_q.jpg", RTSH Muzikë
+http://217.73.139.200:5443/play/a00p
+#EXTINF:-1 group-title="Albania"tvg-logo="https://live.staticflickr.com/65535/52594594695_d3088261d7_q.jpg", RTSH Satelit
+
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Film
+http://217.73.139.200:5443/play/a00n
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Shqip
+http://217.73.139.200:5443/play/a00o
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH 24
+http://217.73.139.200:5443/play/a00s
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Shkollë
+http://217.73.139.200:5443/play/a00v
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Kukësi
+http://217.73.139.200:5443/play/a00y
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Sport
+http://217.73.139.200:5443/play/a01d
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Korça
+http://217.73.139.200:5443/play/a01l
+#EXTINF:-1 group-title="Albania"tvg-logo="", RTSH Gjirokastra
+http://217.73.139.200:5443/play/a01m
+#EXTINF:-1 group-title="Albania"tvg-logo="",  RTSH Shkodra
+http://217.73.139.200:5443/play/a01o
+
+
+
+#### Andorra ####
+#EXTINF:0 group-title="Andorra"tvg-logo="http://www.inlife.tv/sites/default/files/logos/andorra-televisio.png",ATV
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
+#EXTINF:0 group-title="Andorra"tvg-logo="http://www.inlife.tv/sites/default/files/logos/andorra-televisio.png",ATV Canal Web
+
+
+#### Armenia ####
+#EXTINF:0 group-title="Armenia"tvg-logo="https://live.staticflickr.com/65535/51594743762_c3078f512f_q.jpg",ARMTV
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:0 group-title="Armenia"tvg-logo="https://live.staticflickr.com/65535/51594743762_c3078f512f_q.jpg",ARMTV
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:0 group-title="Armenia"tvg-logo="https://live.staticflickr.com/65535/51594743762_c3078f512f_q.jpg",ARMTV (1080)
+https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Armenia"tvg-logo="",H1
+#EXTVLCOPT:http-user-agent=smartlabs
+https://amtv.tulixcdn.com/amtv2/am1abr/index.m3u8
+#EXTINF:0 group-title="Armenia"tvg-logo="",H1
+https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
+#EXTINF:0 group-title="Armenia"tvg-logo="",H1 News
+#EXTVLCOPT:http-user-agent=smartlabs
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+
+#### Australia ####
+#EXTINF:0 group-title="Australia"tvg-logo="",SBS One
+
+#EXTINF:0 group-title="Australia"tvg-logo="",SBS Viceland
+
+#EXTINF:0 group-title="Australia"tvg-logo="",NITV
+
+#EXTINF:0 group-title="Australia"tvg-logo="",SBS World Movies
+
+#EXTINF:0 group-title="Australia"tvg-logo="",SBS Food
+
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC TV plus
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC Family
+
+#EXTINF:0 group-title="Australia"tvg-logo="",ABC News
+https://c.mjh.nz/abc-news.m3u8
+
+
+#### Austria ####
+#EXTINF:-1 group-title="Austria"tvg-logo="https://live.staticflickr.com/65535/51596452545_f6c9a3a9c3_q.jpg", ORF 1
+https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="https://live.staticflickr.com/65535/51596452545_f6c9a3a9c3_q.jpg", ORF 1 (720)
+https://live.escplus.es/lists/espjav/orf1_720.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="https://live.staticflickr.com/65535/51595558116_1cafa10416_q.jpg", ORF 2
+https://test16.mdn.ors.at/orf/orf2/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="https://live.staticflickr.com/65535/51595558116_1cafa10416_q.jpg", ORF 2 (720)
+https://live.escplus.es/lists/espjav/orf2_720.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="https://live.staticflickr.com/65535/51595558081_b509e1a7d5_q.jpg", ORF III
+https://test16.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Sport +
+https://test16.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="",ORF Kids
+https://test18.mdn.ors.at/orf/web12/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 1
+https://web01.mdn.ors.at/orf/web01/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 2
+https://web02.mdn.ors.at/orf/web02/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 3
+https://web03.mdn.ors.at/orf/web03/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 4
+https://web04.mdn.ors.at/orf/web04/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 5
+https://web05.mdn.ors.at/orf/web05/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 6
+https://web06.mdn.ors.at/orf/web06/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 7
+https://web07.mdn.ors.at/orf/web07/qxa/manifest.m3u8
+#EXTINF:-1 group-title="Austria"tvg-logo="", ORF Web 11
+https://web11.mdn.ors.at/orf/web11/qxa/manifest.m3u8
+
+
+#### Azerbaijan ####
+#EXTINF:0 group-title="Azerbaijan"tvg-logo="https://live.staticflickr.com/65535/51595780173_3b99e52455_q.jpg",Ictimai tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#https://node19.connect.az:9081/tv/live/playlist.m3u8
+
+
+#### Belarus ####
+#EXTINF:0 group-title="Belarus"tvg-logo="https://live.staticflickr.com/65535/51596223974_cbc35024a3_q.jpg",Беларусь 1 geo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="https://live.staticflickr.com/65535/51596223974_cbc35024a3_q.jpg",Беларусь 1
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="https://live.staticflickr.com/65535/51594743592_b28445dcf8_q.jpg",Беларусь 2 geo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="https://live.staticflickr.com/65535/51594743592_b28445dcf8_q.jpg",Беларусь 2
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="https://live.staticflickr.com/65535/51595559301_62be51a6ba_q.jpg",Беларусь 3 geo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="https://live.staticflickr.com/65535/51595559301_62be51a6ba_q.jpg",Беларусь 3
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="",Беларусь 5 geo
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="",Беларусь 5
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#https://stream.mcquack.net/33/index.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="",Беларусь 5 int
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="https://live.staticflickr.com/65535/51594740942_599e7246cd_q.jpg",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:0 group-title="Belarus"tvg-logo="",Беларусь News
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+
+
+#### Belgium ####
+#EXTINF:0 group-title="Belgium"tvg-logo="",VRT1
+
+#EXTINF:0 group-title="Belgium"tvg-logo="",Canvas
+
+#EXTINF:0 group-title="Belgium"tvg-logo="",Ketnet
+
+#EXTINF:0 group-title="Belgium"tvg-logo="",Ketnet Junior
+https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_HLS/ketnet_junior_prod_hls-hls.m3u8
+#EXTINF:0 group-title="Belgium"tvg-logo="",Ketnet Junior (1080)
+https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_HLS/ketnet_junior_prod_hls-hls/6.m3u8
+#EXTINF:0 group-title="Belgium"tvg-logo="",La Une
+http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:0 group-title="Belgium"tvg-logo="",Tipik
+http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:0 group-title="Belgium"tvg-logo="",La Trois
+http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+
+#### Bosnia ####
+#EXTINF:0 group-title="Bosnia"tvg-logo="",BHRT 1
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:0 group-title="Bosnia"tvg-logo="",BHRT 1 HD
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+
+
+
+
+#### Bulgaria ####
+#EXTINF:0 group-title="Bulgaria"tvg-logo="https://live.staticflickr.com/65535/51596224079_41f2a86b0a_q.jpg",BNT 1
+http://85.11.189.178:8080/BNT1/index.m3u8
+#EXTINF:0 group-title="Bulgaria"tvg-logo="https://live.staticflickr.com/65535/51596224079_41f2a86b0a_q.jpg",BNT 1
+
+#EXTINF:0 group-title="Bulgaria"tvg-logo="https://live.staticflickr.com/65535/51594743642_9809c9c904_q.jpg",BNT 2
+
+#EXTINF:0 group-title="Bulgaria"tvg-logo="https://live.staticflickr.com/65535/51595559386_0be57501ab_q.jpg",BNT 3
+
+#EXTINF:0 group-title="Bulgaria"tvg-logo="https://live.staticflickr.com/65535/51596224004_9299c7d190_q.jpg",BNT 4
+
+
+#### Canada ####
+#EXTINF:0 group-title="Canada"tvg-logo="",CBC News
+https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
+
+
+
+#### Croatia ####
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594171566_1205efdaab_q.jpg",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.m3u8
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594171566_1205efdaab_q.jpg",HRT 1 (mpd)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594689738_ed9396eb22_q.jpg",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.m3u8
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594689738_ed9396eb22_q.jpg",HRT 2 (mpd)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594594765_dd5da9fa13_q.jpg",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.m3u8
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594594765_dd5da9fa13_q.jpg",HRT 3 (mpd)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594171481_a07f06f9cd_q.jpg",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.m3u8
+#EXTINF:0 group-title="Croatia"tvg-logo="https://live.staticflickr.com/65535/52594171481_a07f06f9cd_q.jpg",HRT 4 (mpd)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:0 group-title="Croatia"tvg-logo="",HRTi
+
+
+#### Cyprus ####
+#EXTINF:0 group-title="Cyprus"tvg-logo="",RIK 1
+http://213.7.216.229:8888/udp/239.23.0.1:1234
+#EXTINF:0 group-title="Cyprus"tvg-logo="",RIK 2
+http://213.7.216.229:8888/udp/239.23.0.2:1234
+#EXTINF:0 group-title="Cyprus"tvg-logo="",RIK HD
+http://213.7.216.229:8888/udp/239.23.0.5:1234
+#EXTINF:0 group-title="Cyprus"tvg-logo="",RIK SAT
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+
+
+#### Czechia ####
+#EXTINF:0 group-title="Czechia"tvg-logo="",ČT1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:0 group-title="Czechia"tvg-logo="",ČT2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:0 group-title="Czechia"tvg-logo="",ČT D - Art
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="Czechia"tvg-logo="",ČT 24
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:0 group-title="Czechia"tvg-logo="",ČT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+
+#### Denmark ####
+#API DR https://prod95-cdn.dr-massive.com/api/page?device=web_browser&ff=idp%2Cldp%2Crpt&lang=da&path=%2Fkanal%2Fdr1_20875&segments=drtv%2Coptedin
+
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51596223839_fc5fa017df_q.jpg",DR1
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51596223839_fc5fa017df_q.jpg",DR1 Alternative
+https://drlivedr1hls.akamaized.net/hls/live/2113625-b/drlivedr1/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51596223839_fc5fa017df_q.jpg",DR1 Subtitles
+https://drlivedr1texthls.akamaized.net/hls/live/2113624/drlivedr1text/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51596223839_fc5fa017df_q.jpg",DR1 Syn
+https://dr1synhls.akamaized.net/hls/live/2040937/dr1syn/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51596223839_fc5fa017df_q.jpg",DR1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://7nyaler.streamhostingcdn.top/stream/45/index.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51596223839_fc5fa017df_q.jpg",DR1 (1080)
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/6.m3u8
+
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51595780683_09005d477d_q.jpg",DR2
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51595780683_09005d477d_q.jpg",DR2 Alternative
+https://drlivedr2hls.akamaized.net/hls/live/2113623-b/drlivedr2/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51595780683_09005d477d_q.jpg",DR2 Subtitles
+https://drlivedr2texthls.akamaized.net/hls/live/2113622/drlivedr2text/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51595780683_09005d477d_q.jpg",DR2 Syn
+https://dr2synhls.akamaized.net/hls/live/2013734/dr2syn/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="https://live.staticflickr.com/65535/51595780683_09005d477d_q.jpg",DR2 (1080)
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/6.m3u8
+
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR RamaSjang
+https://drlivedrrhls.akamaized.net/hls/live/2113621/drlivedrr/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR RamaSjang Alternative
+https://drlivedrrhls.akamaized.net/hls/live/2113621-b/drlivedrr/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR RamaSjang Subtitles
+https://drlivedrrtexthls.akamaized.net/hls/live/2113620/drlivedrrtext/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR RamaSjang (1080)
+https://drlivedrrhls.akamaized.net/hls/live/2113621/drlivedrr/6.m3u8
+
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVA
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVA Alternative
+https://drlivedrtvahls.akamaized.net/hls/live/2113613-b/drlivedrtva/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVA  Subtitles
+https://drlivedrtvatexthls.akamaized.net/hls/live/2113612/drlivedrtvatext/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVA (1080)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/6.m3u8
+
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVB
+https://drlivedrtvbhls.akamaized.net/hls/live/2113611/drlivedrtvb/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVB (1080)
+https://drlivedrtvbhls.akamaized.net/hls/live/2113611/drlivedrtvb/6.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVC
+https://drlivedrtvchls.akamaized.net/hls/live/2113608/drlivedrtvc/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DR TVC (1080)
+https://drlivedrtvchls.akamaized.net/hls/live/2113608/drlivedrtvc/6.m3u8
+
+#EXTINF:0 group-title="Denmark"tvg-logo="",DRTV
+https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DRTV (1080)
+https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master5500.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DRTV Ekstra
+https://drevent02hls.akamaized.net/hls/live/2028694/drevent02/master.m3u8
+#EXTINF:0 group-title="Denmark"tvg-logo="",DRTV Ekstra (1080)
+https://drevent02hls.akamaized.net/hls/live/2028694/drevent02/master5500.m3u8
+
+
+
+
+
+#### Estonia ####
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594689798_e90aa8219e_q.jpg",ETV 1
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/51595780498_4b2743648e_q.jpg",ETV 2
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594689823_0b5754ef64_q.jpg",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594596245_e6436e47e3_q.jpg",ERR eventual
+https://sb.err.ee/eri/eri.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594596245_e6436e47e3_q.jpg",ERR eventual
+https://sb.err.ee/eri/eri6.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594596245_e6436e47e3_q.jpg",ERR eventual
+https://sb.err.ee/eri/eri11.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594596245_e6436e47e3_q.jpg",ERR eventual
+https://sb.err.ee/eri/eri12.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594596245_e6436e47e3_q.jpg",ERR eventual
+https://sb.err.ee/eri/eri13.m3u8
+#EXTINF:0 group-title="Estonia"tvg-logo="https://live.staticflickr.com/65535/52594596245_e6436e47e3_q.jpg",ERR eventual
+https://sb.err.ee/eri/eri14.m3u8
+
+
+#### Finland ####
+#EXTINF:0 group-title="Finland"tvg-logo="https://live.staticflickr.com/65535/51596221514_eb7c6cd94f_q.jpg",YLE 1 geo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+#EXTINF:0 group-title="Finland"tvg-logo="https://live.staticflickr.com/65535/51596221514_eb7c6cd94f_q.jpg",YLE 1
+https://live-fi.tvkaista.net/yle-tv1/live.m3u8
+#EXTINF:0 group-title="Finland"tvg-logo="https://live.staticflickr.com/65535/51595556261_886ce322f2_q.jpg",YLE 2 geo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
+#EXTINF:0 group-title="Finland"tvg-logo="https://live.staticflickr.com/65535/51595556261_886ce322f2_q.jpg",YLE 2
+https://live-fi.tvkaista.net/yle-tv2/live.m3u8
+
+
+#### France ####
+#EXTINF:0 group-title="France"tvg-logo="https://live.staticflickr.com/65535/51595558956_412f3d3d06_q.jpg",France 2
+https://clm.ahimas.openstream.es/LB-Opensport/smil:482_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#http://51.178.65.238/France2/mono.m3u8
+#EXTINF:0 group-title="France"tvg-logo="https://live.staticflickr.com/65535/51596453330_4ebfd4ec08_q.jpg",France 3
+https://clm.ahimas.openstream.es/LB-Opensport/smil:485_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="France"tvg-logo="https://live.staticflickr.com/65535/51596453285_724b92329b_q.jpg",France 4
+https://clm.ahimas.openstream.es/LB-Opensport/smil:484_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#http://176.65.146.100:8047/play/a074/index.m3u8
+#EXTINF:0 group-title="France"tvg-logo="https://live.staticflickr.com/65535/51596223514_ac377551e1_q.jpg",France 5
+https://clm.ahimas.openstream.es/LB-Opensport/smil:483_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="France"tvg-logo="",France Info
+https://clm.ahimas.openstream.es/LB-Opensport/smil:481_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+
+
+#### Georgia ####
+#EXTINF:0 group-title="Georgia"tvg-logo="https://live.staticflickr.com/65535/51595780293_350e4c5117_q.jpg",GPB
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:0 group-title="Georgia"tvg-logo="https://live.staticflickr.com/65535/51596453190_bf3e163210_q.jpg",GPB2
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+
+#### Germany ####
+#EXTINF:0 group-title="Germany"tvg-logo="",Das Erste
+https://clm.ahimas.openstream.es/LB-Opensport/smil:242_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",NDR int HD
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",NDR int 1080
+https://live.escplus.es/lists/espjav/ndr_1080.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",NDR HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/52594689483_8549d0f3ca_q.jpg",Kika
+https://kikaeventhls.akamaized.net/hls/live/2022695/kikaevent_ww/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/52594689483_8549d0f3ca_q.jpg",Kika 1080
+https://kikaeventhls.akamaized.net/hls/live/2022695/kikaevent_ww/master-1080p-5128.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/52594689483_8549d0f3ca_q.jpg",Kika geo
+#https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/51595558136_53ddd76123_q.jpg",ONE
+
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/51405924615_fd8d9f563b.jpg",WDR
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/51405924615_fd8d9f563b.jpg",WDR geo
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/51405924615_fd8d9f563b.jpg",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="https://live.staticflickr.com/65535/51405924615_fd8d9f563b.jpg",WDR
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",PRO7
+https://clm.ahimas.openstream.es/LB-Opensport/smil:229_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="Germany"tvg-logo="",ZDF HD
+https://clm.ahimas.openstream.es/LB-Opensport/smil:221_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="Germany"tvg-logo="",ZDF Neo
+
+#EXTINF:0 group-title="Germany"tvg-logo="",ZDF Info
+https://clm.ahimas.openstream.es/LB-Opensport/smil:222_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+
+#EXTINF:0 group-title="Germany"tvg-logo="",Tagesschau 1
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",Tagesschau 1 720
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master-720p-3328.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",Tagesschau 2
+https://tagesschau.akamaized.net/hls/live/2020116/tagesschau/tagesschau_2/master.m3u8
+
+#EXTINF:0 group-title="Germany"tvg-logo="",Kabel Eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",SAT1
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",SAT1 Gold
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",SIXX
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",MDR
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",VOX
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+#EXTINF:0 group-title="Germany"tvg-logo="",Arte
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+
+
+
+#### Greece ####
+#EXTINF:0 group-title="Greece"tvg-logo="https://live.staticflickr.com/65535/52594171746_45e1cbb61b_q.jpg",ERT 1
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="https://live.staticflickr.com/65535/52594171746_45e1cbb61b_q.jpg",ERT 1 (1080)
+https://live.escplus.es/lists/espjav/ert1_1080.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="https://live.staticflickr.com/65535/52593687217_2a6d313d64_q.jpg",ERT 2
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="https://live.staticflickr.com/65535/52593687217_2a6d313d64_q.jpg",ERT 2 (1080)
+https://live.escplus.es/lists/espjav/ert2_1080.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="https://live.staticflickr.com/65535/52594596180_2bf51f5571_q.jpg",ERT 3
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT Cosmos
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT Cosmos (1080)
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos/default/ERTCosmos-audio_142800_gre=140800-video=5154400.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT Cosmos cy
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT News
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT News (1080)
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/ERTNews-audio_206200_gre=206000-video=6176000.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT News 2
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews2/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT News 3
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews3/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT News sign
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews_Sign/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT Kids
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT Kids (1080)
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTKids/default/ERTKids-audio_142800_gre=140800-video=5154400.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT OCA 1
+https://ert-live.ascdn.broadpeak.io/bpk-tv/Seasonal/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",ERT OCA 2
+https://ert-live.ascdn.broadpeak.io/bpk-tv/Seasonal2/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",RIK Sat
+https://ert-live.ascdn.broadpeak.io/bpk-tv/RIK/default/index.m3u8
+#https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.m3u8
+#EXTINF:0 group-title="Greece"tvg-logo="",Vouli
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/Vouli_World/default/index.m3u8
+
+
+#### Hungary ####
+#EXTINF:0 group-title="Hungary"tvg-logo="",Duna
+http://88.212.15.19/live/duna_hun/index.m3u8
+#EXTINF:0 group-title="Hungary"tvg-logo="",Duna World
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+#EXTINF:0 group-title="Hungary"tvg-logo="",M1
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:0 group-title="Hungary"tvg-logo="",M2
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:0 group-title="Hungary"tvg-logo="",M5
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+
+
+
+#### Iceland ####
+#EXTINF:0 group-title="Iceland"tvg-logo="https://live.staticflickr.com/65535/52594688503_cb5f467025_q.jpg",RÚV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:0 group-title="Iceland"tvg-logo="https://live.staticflickr.com/65535/52594688448_d31d76c7ca_q.jpg",RÚV2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:0 group-title="Iceland"tvg-logo="",RÚV3
+https://ruv-web-live.akamaized.net/streymi/ruv3/ruv3.m3u8
+#EXTINF:0 group-title="Iceland"tvg-logo="",RÚV4
+https://ruv-web-live.akamaized.net/streymi/ruv4/ruv4.m3u8
+
+
+
+#### Ireland ####
+#EXTINF:0 group-title="Ireland"tvg-logo="https://live.staticflickr.com/65535/51596222384_f567396043_q.jpg",RTE ONE
+http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
+#EXTINF:0 group-title="Ireland"tvg-logo="https://live.staticflickr.com/65535/51596222384_f567396043_q.jpg",RTE ONE +1
+http://51.171.169.203:9090/stream/channelid/414963559?profile=pass
+#EXTINF:0 group-title="Ireland"tvg-logo="https://live.staticflickr.com/65535/51595779163_48e81676e2_q.jpg",RTE TWO
+
+#EXTINF:0 group-title="Ireland"tvg-logo="https://live.staticflickr.com/65535/51595779163_48e81676e2_q.jpg",RTE TWO +1
+http://51.171.169.203:9090/stream/channelid/1591445810?profile=pass
+#EXTINF:0 group-title="Ireland"tvg-logo="",RTE Jr
+http://51.171.169.203:9090/stream/channelid/122000330?profile=pass
+#EXTINF:0 group-title="Ireland"tvg-logo="https://live.staticflickr.com/65535/51596221864_dcecc429d4_q.jpg",TG4
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/playlist-hls-dvr.m3u8
+#EXTINF:0 group-title="Ireland"tvg-logo="https://live.staticflickr.com/65535/51596221864_dcecc429d4_q.jpg",TG4 1080
+https://live.escplus.es/lists/espjav/tg4_1080.m3u8
+#https://m.lizarraga.eus/ignasi-dVA.m3u8
+#EXTINF:0 group-title="Ireland"tvg-logo="",Cúla
+http://51.171.169.203:9090/stream/channelid/904028456?profile=pass
+
+
+
+#### Israel ####
+#EXTINF:0 group-title="Israel"tvg-logo="https://live.staticflickr.com/65535/52594689543_9c0979a45d_q.jpg",KAN 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Israel"tvg-logo="https://live.staticflickr.com/65535/52594689543_9c0979a45d_q.jpg",KAN 11 (1080)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?bitrate=5692000&audioId=1&videoId=0
+#EXTINF:0 group-title="Israel"tvg-logo="https://live.staticflickr.com/65535/52594689543_9c0979a45d_q.jpg",KAN 11 subs
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Israel"tvg-logo="https://live.staticflickr.com/65535/52594689543_9c0979a45d_q.jpg",KAN 11 subs (1080)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?bitrate=5692000&audioId=1&videoId=0
+#EXTINF:0 group-title="Israel"tvg-logo="",KAN Hinuchit
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Israel"tvg-logo="",KAN Hinuchit (1080)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?bitrate=5692000&audioId=1&videoId=0
+#EXTINF:0 group-title="Israel"tvg-logo="",KAN Arabic
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Israel"tvg-logo="",KAN Arabic (1080)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?bitrate=5692000&audioId=1&videoId=0
+
+
+#### Italy ####
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 1
+https://clm.ahimas.openstream.es/LB-Opensport/smil:93_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 2 HD
+https://clm.ahimas.openstream.es/LB-Opensport/smil:107_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 3 HD
+https://clm.ahimas.openstream.es/LB-Opensport/smil:63_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 3
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Italia
+
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4465258&output=7
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Radio 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Scuola
+https://clm.ahimas.openstream.es/LB-Opensport/smil:143_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Scuola
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Storia
+https://clm.ahimas.openstream.es/LB-Opensport/smil:265_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Storia
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
+
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI play 1
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/playlist_mo.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI play 2
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/playlist_mo.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI play 3
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8
+
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI News Extra 1
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainewsextra1/hls/playlist_mo.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI News Extra 2
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainewsextra2/hls/playlist_mo.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI News Extra 3
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainewsextra3hls/playlist_mo.m3u8
+
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Generic 1
+https://raigeneric1-live.akamaized.net/hls/live/619171/raigeneric1/raigeneric1/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Generic 2
+https://raigeneric2-live.akamaized.net/hls/live/619173/raigeneric2/raigeneric2/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Generic 3
+https://raigeneric3-live.akamaized.net/hls/live/619174/raigeneric3/raigeneric3/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Generic 4
+https://raigeneric4-live.akamaized.net/hls/live/619175/raigeneric4/raigeneric4/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Generic 5
+https://raigeneric5-live.akamaized.net/hls/live/619177/raigeneric5/raigeneric5/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Conference
+https://conferenze-live.akamaized.net/hls/live/2032618/conferenze/conferenze/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 1
+https://raievent1-live.akamaized.net/hls/live/619180/raievent1/raievent1/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 2
+https://raievent2-live.akamaized.net/hls/live/619181/raievent2/raievent2/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 3
+https://raievent3-live.akamaized.net/hls/live/619182/raievent3/raievent3/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 4
+https://raievent4-live.akamaized.net/hls/live/619183/raievent4/raievent4/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 5
+https://raievent5-live.akamaized.net/hls/live/619184/raievent5/raievent5/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 6
+https://raievent6-live.akamaized.net/hls/live/619185/raievent6/raievent6/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 7 (rai premium)
+https://raievent7-live.akamaized.net/hls/live/619186/raievent7/raievent7/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 8
+https://raievent8-live.akamaized.net/hls/live/619187/raievent8/raievent8/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 9
+https://raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/playlist.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Rai Event 10 (RAI 4K)
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:0 group-title="Italy"tvg-logo="",RAI Südtirol
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
+
+#EXTINF:0 group-title="Italy"tvg-logo="",Casa Sanremo TV
+https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+#EXTINF:0 group-title="Italy"tvg-logo="",Casa Sanremo TV
+https://stream12.xdevel.com/video0s975911-3071/stream/playlist_dvr.m3u8
+
+
+
+
+#### Kazakhstan ####
+#EXTINF:0 group-title="Kazakhstan"tvg-logo="https://live.staticflickr.com/65535/52594688233_fea3bb5792_q.jpg",Хабар
+
+#EXTINF:0 group-title="Kazakhstan"tvg-logo="https://live.staticflickr.com/65535/52593376167_3f9cd6dfee_q.jpg",Jibek Joly
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:0 group-title="Kazakhstan"tvg-logo="https://live.staticflickr.com/65535/52594284020_dfe863f23d_q.jpg",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:0 group-title="Kazakhstan"tvg-logo="https://live.staticflickr.com/65535/52593686902_b35f7d5943_q.jpg",Хабар 24
+
+
+
+#### Kosovo ####
+#EXTINF:0 group-title="Kosovo"tvg-logo="https://live.staticflickr.com/65535/52578541708_837bc1dcdc_q.jpg",RTK 1
+
+#EXTINF:0 group-title="Kosovo"tvg-logo="",RTK 2
+
+#EXTINF:0 group-title="Kosovo"tvg-logo="",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:0 group-title="Kosovo"tvg-logo="",RTK 3 (1080)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v2a1/mono.ts.m3u8
+#EXTINF:0 group-title="Kosovo"tvg-logo="",RTK 4
+
+#EXTINF:0 group-title="Kosovo"tvg-logo="",RTK 1 SAT
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:0 group-title="Kosovo"tvg-logo="",RTK 1 SAT (1080)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
+
+
+#### Latvia ####
+#EXTINF:0 group-title="Latvia"tvg-logo="https://ltv.lsm.lv/ltv-assets/channels/ltv1_placeholder_square_light.png",LTV 1
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Latvia"tvg-logo="https://ltv.lsm.lv/ltv-assets/channels/ltv7_placeholder_square_light.png",LTV 7
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Latvia"tvg-logo="https://ltv.lsm.lv/ltv-assets/channels/visiemltv_placeholder_square_light.png",LTV Visiem
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/visiem_ltv/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Latvia"tvg-logo="",LTV Signs
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv08_global_dya_43188_default_1328_hls.smil/index.m3u8
+
+
+
+
+#### Lithuania ####
+#EXTINF:0 group-title="Lithuania"tvg-logo="https://live.staticflickr.com/65535/52401813801_0cf9a51edc_q.jpg",LRT
+https://live.escplus.es/live_play/channel/lrt1.m3u8
+#https://stream.mcquack.net/31/index.m3u8
+#EXTINF:0 group-title="Lithuania"tvg-logo="https://live.staticflickr.com/65535/52594595905_562789a9ce_q.jpg",LRT Lituanica
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:0 group-title="Lithuania"tvg-logo="https://live.staticflickr.com/65535/52594595905_562789a9ce_q.jpg",LRT Plius
+https://live.escplus.es/live_play/channel/lrt_plius.m3u8
+
+#EXTINF:0 group-title="Lithuania"tvg-logo="",LRT.lt 1
+https://stream-live.lrt.lt/live1/master.m3u8
+#EXTINF:0 group-title="Lithuania"tvg-logo="",LRT.lt 2
+https://stream-live.lrt.lt/live2/master.m3u8
+#EXTINF:0 group-title="Lithuania"tvg-logo="",LRT.lt 4
+https://stream-live.lrt.lt/live4/master.m3u8
+#EXTINF:0 group-title="Lithuania"tvg-logo="",LRT.lt 10
+https://stream-live.lrt.lt/live10/master.m3u8
+#EXTINF:0 group-title="Lithuania"tvg-logo="",LRT.lt 11
+https://stream-live.lrt.lt/live11/master.m3u8
+
+
+#### Luxembourg ####
+#EXTINF:0 group-title="Luxembourg"tvg-logo="https://live.staticflickr.com/65535/52913867602_0616fd7f3c_q.jpg",RTL
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="https://live.staticflickr.com/65535/52913867602_0616fd7f3c_q.jpg",RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="https://live.staticflickr.com/65535/52914828680_cb0e8ece5d_q.jpg",RTL Zwee
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="https://live.staticflickr.com/65535/52914828680_cb0e8ece5d_q.jpg",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="",RTL Play 1
+https://stream.rtl.lu/data/live/tele/media1/index.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="",RTL Play 2
+https://stream.rtl.lu/data/live/tele/media2/index.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="",RTL Play 3
+https://stream.rtl.lu/data/live/tele/media3/index.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="",RTL Play 4
+https://stream.rtl.lu/data/live/tele/media4/index.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="",RTL Play 7
+https://stream.rtl.lu/data/live/tele/media7/index.m3u8
+#EXTINF:0 group-title="Luxembourg"tvg-logo="",RTL Play 8
+https://stream.rtl.lu/data/live/tele/media8/index.m3u8
+
+
+#### Malta ####
+#EXTINF:0 group-title="Malta"tvg-logo="",TVM
+https://live03.delivery.twentythree.com/live/amlst:asv35jqi2clf46as7v2u1hqbkp:71154069-1278e729306f170d3483.mp4/chunklist_b2128000.m3u8
+#EXTINF:0 group-title="Malta"tvg-logo="",TVM+
+
+#EXTINF:0 group-title="Malta"tvg-logo="",TVM Sport
+
+
+#### Monaco ####
+#EXTINF:0 group-title="Monaco"tvg-logo="",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+
+
+
+#### Montenegro ####
+#EXTINF:0 group-title="Montenegro"tvg-logo="https://live.staticflickr.com/65535/51795302978_69e94eaaed_q.jpg",RTCG 1
+
+#EXTINF:0 group-title="Montenegro"tvg-logo="https://live.staticflickr.com/65535/51795177736_d9d826e53e_q.jpg",RTCG 2
+
+#EXTINF:0 group-title="Montenegro"tvg-logo="",RTCG 3
+
+#EXTINF:0 group-title="Montenegro"tvg-logo="https://live.staticflickr.com/65535/51596452065_e9909a3e37_q.jpg",RTCG Sat
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:0 group-title="Montenegro"tvg-logo="https://live.staticflickr.com/65535/51596452065_e9909a3e37_q.jpg",RTCG Sat 1080
+https://m.lizarraga.eus/capd_S2F2.m3u8
+
+
+#### Moldova ####
+#EXTINF:0 group-title="Moldova"tvg-logo="https://trm.md/img/pages/2018/10/18/moldova-1/bottom-moldova-1/bottom-moldova-1.png",TRM1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:0 group-title="Moldova"tvg-logo="https://trm.md/img/pages/2018/10/18/moldova-2/bottom-moldova-2/bottom-moldova-2.png",TRM2
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+
+
+
+#### Netherlands ####
+#EXTINF:0 group-title="Netherlands"tvg-logo="https://live.staticflickr.com/65535/52594689213_096aaba3b5_q.jpg",NPO1
+http://86.85.245.213:9981/stream/channelid/366634623?profile=pass
+#EXTINF:0 group-title="Netherlands"tvg-logo="https://live.staticflickr.com/65535/52594689213_096aaba3b5_q.jpg",NPO1
+http://86.85.245.213:9981/stream/channelid/771467224?profile=pass
+#EXTINF:0 group-title="Netherlands"tvg-logo="https://live.staticflickr.com/65535/52594688213_e0343ed829_q.jpg",NPO2
+http://193.239.187.97/NPO2/index.m3u8
+#EXTINF:0 group-title="Netherlands"tvg-logo="https://live.staticflickr.com/65535/52594688213_e0343ed829_q.jpg",NPO2
+http://86.85.245.213:9981/stream/channelid/27239132?profile=pass
+#EXTINF:0 group-title="Netherlands"tvg-logo="https://live.staticflickr.com/65535/52594688213_e0343ed829_q.jpg",NPO2
+http://86.85.245.213:9981/stream/channelid/2103619137?profile=pass
+#EXTINF:0 group-title="Netherlands"tvg-logo="https://live.staticflickr.com/65535/52594430799_7fbf35f734_q.jpg",NPO3 / ZAPP
+http://86.85.245.213:9981/stream/channelid/1160970019?profile=pass
+#EXTINF:0 group-title="Netherlands"tvg-logo="https://live.staticflickr.com/65535/52594430799_7fbf35f734_q.jpg",NPO3
+http://86.85.245.213:9981/stream/channelid/1580865442?profile=pass
+#EXTINF:0 group-title="Netherlands"tvg-logo="",NPO1 Extra
+http://86.85.245.213:9981/stream/channelid/56584716?profile=pass
+#EXTINF:0 group-title="Netherlands"tvg-logo="",NPO1 Extra
+http://86.85.245.213:9981/stream/channelid/2135871466?profile=pass
+
+
+#### North Macedonia ####
+#EXTINF:0 group-title="North Macedonia"tvg-logo="https://live.staticflickr.com/65535/52594595825_aa774ce5e4_q.jpg",MRT 1
+
+#EXTINF:0 group-title="North Macedonia"tvg-logo="",MRT 2
+
+#EXTINF:0 group-title="North Macedonia"tvg-logo="",MRT 3
+
+#EXTINF:0 group-title="North Macedonia"tvg-logo="",MRT 4
+
+#EXTINF:0 group-title="North Macedonia"tvg-logo="",MRT 5
+
+
+
+#### Norway ####
+#EXTINF:0 group-title="Norway"tvg-logo="",NRK1
+http://185.19.191.4:8090/NRK1/index.m3u8
+#EXTINF:0 group-title="Norway"tvg-logo="",NRK1
+http://185.19.191.181:8090/NRK1/index.m3u8
+#EXTINF:0 group-title="Norway"tvg-logo="",NRK2
+
+#EXTINF:0 group-title="Norway"tvg-logo="",NRK Nyheter
+https://nrk-live-world.akamaized.net/nrktv8/muxed.m3u8
+#EXTINF:0 group-title="Norway"tvg-logo="",NRK Event 8
+https://nrk-live-world.akamaized.net/nrktv8/muxed.m3u8
+
+
+
+#### Poland ####
+#EXTINF:-1 group-title="Poland"tvg-logo="https://live.staticflickr.com/65535/51594741122_433da7c198_q.jpg",TVP1 HD
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 group-title="Poland"tvg-logo="https://live.staticflickr.com/65535/51594741122_433da7c198_q.jpg",TVP1 HD
+https://redir.cache.orange.pl/dai4/org1/vb/104/tvp1hd/manifest.mpd
+#EXTINF:-1 group-title="Poland"tvg-logo="https://live.staticflickr.com/65535/51595778283_b18ec804a0_q.jpg",TVP2 HD
+
+#EXTINF:-1 group-title="Poland"tvg-logo="",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 group-title="Poland"tvg-logo="",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 group-title="Poland"tvg-logo="",TVP Info
+https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
+
+
+#### Portugal ####
+#EXTINF:0 group-title="Portugal"tvg-logo="https://live.staticflickr.com/65535/51594741877_8a98828a04_q.jpg",RTP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="https://live.staticflickr.com/65535/51596451960_cf96f7b888_q.jpg",RTP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/manifest.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="https://live.staticflickr.com/65535/51596450885_e03254fbf8_q.jpg",RTP Noticias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="https://live.staticflickr.com/65535/52594430294_e578ca1109_q.jpg",RTP mundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="https://live.staticflickr.com/65535/51595779118_d9b8c14d49_q.jpg",RTP Gestual
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/gestual.stream/playlist.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="",RTP Africa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="",RTP Madeira
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="",RTP Açores
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:0 group-title="Portugal"tvg-logo="",RTP Memoria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+
+#### Romania ####
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR 1 1080
+https://m.lizarraga.eus/payorepartidor.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Internațional
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/index.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Internațional 1080
+https://m.lizarraga.eus/tvrint-esm.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Sports
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Iași
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Timișoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR Târgu Mureș
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR event 1
+https://tvr-digital1.lg.mncdn.com/tvr_digital1/smil:tvr_digital1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR event 2
+https://tvr-digital2.lg.mncdn.com/tvr_digital2/smil:tvr_digital2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR event 3
+https://tvr-digital3.lg.mncdn.com/tvr_digital3/smil:tvr_digital3.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR event 4
+https://tvr-digital4.lg.mncdn.com/tvr_digital4/smil:tvr_digital4.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Romania" group-title="Romania" tvg-name="" tvg-logo="",TVR event 5
+https://tvr-digital5.lg.mncdn.com/tvr_digital5/smil:tvr_digital5.smil/playlist.m3u8
+
+
+#### Russia ####
+#EXTINF:0 group-title="Russia"tvg-logo="",C1R
+https://streaming.skynetconnect.co.za/live/210.m3u8
+#EXTINF:0 group-title="Russia"tvg-logo="",C1R +4 HD
+
+#EXTINF:0 group-title="Russia"tvg-logo="",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0 group-title="Russia"tvg-logo="",Karusel
+https://streaming.skynetconnect.co.za/live/232.m3u8
+#EXTINF:0 group-title="Russia"tvg-logo="",Karusel (576)
+https://streaming.skynetconnect.co.za/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0 group-title="Russia"tvg-logo="",Karusel
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+#EXTINF:0 group-title="Russia"tvg-logo="",НТВ
+https://streaming.skynetconnect.co.za/live/213.m3u8
+
+
+#### San Marino ####
+#EXTINF:0 group-title="San Marino"tvg-logo="https://live.staticflickr.com/65535/51596451610_239685b545_q.jpg",SMRTV
+
+#EXTINF:0 group-title="San Marino"tvg-logo="",SMRTV Sport
+
+#EXTINF:0 group-title="San Marino"tvg-logo="https://live.staticflickr.com/65535/51596451610_239685b545_q.jpg",SMRTV Web
+
+
+
+#### Slovakia ####
+#EXTINF:0 group-title="Slovakia"tvg-logo="",:1
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:0 group-title="Slovakia"tvg-logo="",:2
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:0 group-title="Slovakia"tvg-logo="",:3
+
+
+
+#### Slovenia ####
+#EXTINF:0 group-title="Slovenia"tvg-logo="https://live.staticflickr.com/65535/51596222124_753d2c6885_q.jpg",RTVSLO 1
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:0 group-title="Slovenia"tvg-logo="https://live.staticflickr.com/65535/51596451780_0e820ba26f_q.jpg",RTVSLO 2
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:0 group-title="Slovenia"tvg-logo="https://live.staticflickr.com/65535/51596451755_db2db11ebd_q.jpg",RTVSLO 3
+https://dash2.antik.sk/live/test_slo3_tizen/playlist.m3u8
+
+
+#### Serbia ####
+#EXTINF:0 group-title="Serbia"tvg-logo="https://live.staticflickr.com/65535/52594688943_af60fd7929_q.jpg",RTS 1
+#EXTVLCOPT:http-user-agent=Mozilla
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:0 group-title="Serbia"tvg-logo="https://live.staticflickr.com/65535/52594688878_51a92b4237_q.jpg",RTS 2
+#EXTVLCOPT:http-user-agent=Mozilla
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:0 group-title="Serbia"tvg-logo="https://live.staticflickr.com/65535/52594688818_dbea119143_q.jpg",RTS 3
+
+#EXTINF:0 group-title="Serbia"tvg-logo="https://live.staticflickr.com/65535/52594689003_4f26531487_q.jpg",RTS SAT
+#EXTVLCOPT:http-user-agent=Mozilla
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+
+
+
+########## Spain ##########
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Signos
+https://rtvelivestream.rtve.es/eventual/sign/sign_la1_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Cataluña
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 2 Signos
+https://rtvelivestream.rtve.es/eventual/sign/sign_la2_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 2 Cataluña
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 2 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la2_can_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",TVEi Europa
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",TVEi Asia
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_asia_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",TVEi América
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Star TVE
+https://rtvelivestream.rtve.es/rtvesec/int/star_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Clan int
+https://rtvelivestream.rtve.es/rtvesec/int/clan_int_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",TDP
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",TDP Signos
+https://rtvelivestream.rtve.es/eventual/sign/sign_tdp_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",24H
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",24h Signos
+https://rtvelivestream.rtve.es/eventual/sign/sign_24h_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",24h Cataluña
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",24h Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Sortesos Loterias
+https://rnelivestream.rtve.es/c21stream/selae/SELAE/master.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 1
+https://rtvelivestream.rtve.es/eventual/gofast/playm1_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 2
+https://rtvelivestream.rtve.es/eventual/gofast/playm2_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 3
+https://rtvelivestream.rtve.es/eventual/gofast/playm3_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 4
+https://rtvelivestream.rtve.es/eventual/gofast/playm4_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 5
+https://rtvelivestream.rtve.es/eventual/gofast/playm5_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 6
+https://rtvelivestream.rtve.es/eventual/gofast/playm6_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 7
+https://rtvelivestream.rtve.es/eventual/gofast/playm7_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 8
+https://rtvelivestream.rtve.es/eventual/gofast/playm8_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 9
+https://rtvelivestream.rtve.es/eventual/gofast/playm9_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 10
+https://rtvelivestream.rtve.es/eventual/gofast/playm10_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 11
+https://rtvelivestream.rtve.es/eventual/gofast/playm11_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 12
+https://rtvelivestream.rtve.es/eventual/gofast/playm12_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 13
+https://rtvelivestream.rtve.es/eventual/gofast/playm13_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 14
+https://rtvelivestream.rtve.es/eventual/gofast/playm14_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 15
+https://rtvelivestream.rtve.es/eventual/gofast/playm15_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 16
+https://rtvelivestream.rtve.es/eventual/gofast/playm16_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 17
+https://rtvelivestream.rtve.es/eventual/gofast/playm17_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 18
+https://rtvelivestream.rtve.es/eventual/gofast/playm18_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 19
+https://rtvelivestream.rtve.es/eventual/gofast/playm19_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 20
+https://rtvelivestream.rtve.es/eventual/gofast/playm20_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 21
+https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 22
+https://rtvelivestream.rtve.es/eventual/gofast/playm22_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 23
+https://rtvelivestream.rtve.es/eventual/gofast/playm23_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 24
+https://rtvelivestream.rtve.es/eventual/gofast/playm24_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 25
+https://rtvelivestream.rtve.es/eventual/gofast/playm25_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 26
+https://rtvelivestream.rtve.es/eventual/gofast/playm26_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RTVEplay 27
+https://rtvelivestream.rtve.es/eventual/gofast/playm27_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 1
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve01_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 2
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve02_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 3
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve03_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 4
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 5
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve05_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 6
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve06_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 7
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve07_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 8
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve08_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 9
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve09_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 10
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve10_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 11
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve11_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 12
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve12_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 13
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve13_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 14
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve14_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 15
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve15_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 16
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve16_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 17
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve17_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 18
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve18_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 19
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve19_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 20
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve20_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 21
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve21_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 22
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve22_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 23
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve23_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 24
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve24_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 25
+https://rtvelivestream.rtve.es/rtvesec/oca/irtve25_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional 26
+https://rtvelivestream.rtve.es/eventual/oca/irtve26_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional bcn 1
+https://rtvelivestream.rtve.es/rtvesec/oca/bcn01_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Ocasional bcn 1
+https://rtvelivestream.rtve.es/rtvesec/oca/bcn02_main.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Andalucia
+https://rtvelivestream.rtve.es/eventual/terr/la1_anda_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Aragón
+https://rtvelivestream.rtve.es/eventual/terr/la1_arag_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Asturias
+https://rtvelivestream.rtve.es/eventual/terr/la1_astu_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Cantabria
+https://rtvelivestream.rtve.es/eventual/terr/la1_cant_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Castilla la Mancha
+https://rtvelivestream.rtve.es/eventual/terr/la1_clm_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Castilla y León
+https://rtvelivestream.rtve.es/eventual/terr/la1_cyl_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Cataluña
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Extremadura
+https://rtvelivestream.rtve.es/eventual/terr/la1_extr_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Galicia
+https://rtvelivestream.rtve.es/eventual/terr/la1_gal_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Illes Balears
+https://rtvelivestream.rtve.es/eventual/terr/la1_bale_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 La Rioja
+https://rtvelivestream.rtve.es/eventual/terr/la1_rioj_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Comunidad de Madrid
+https://rtvelivestream.rtve.es/eventual/terr/la1_mad_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Región de Murcia
+https://rtvelivestream.rtve.es/eventual/terr/la1_murc_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Navarra
+https://rtvelivestream.rtve.es/eventual/terr/la1_nava_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 País Vasco
+https://rtvelivestream.rtve.es/eventual/terr/la1_pvasc_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",La 1 Comunidad Valenciana
+https://rtvelivestream.rtve.es/eventual/terr/la1_val_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE para todos
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE (cámara)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne1_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Radio clasica
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Radio 3 (cámara)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",,Radio 4
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",,Radio 5
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",Radio Exterior
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE Especiales
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_especiales_main_dvr.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE Ocasional 1
+https://rnelivestream.rtve.es/rneoca/oca1/master.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE Ocasional 2
+https://rnelivestream.rtve.es/rneoca/oca2/master.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE Ocasional 3
+https://rnelivestream.rtve.es/rneoca/oca3/master.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE Ocasional 4
+https://rnelivestream.rtve.es/rneoca/oca4/master.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE Ocasional 5
+https://rnelivestream.rtve.es/rneoca/oca5/master.m3u8
+#EXTINF:0 tvg-id="" tvg-country="Spain" group-title="Spain" tvg-name="" tvg-logo="",RNE Ocasional 6
+https://rnelivestream.rtve.es/rneoca/oca6/master.m3u8
+
+
+
+#### Sweden ####
+#EXTINF:0 group-title="Sweden"tvg-logo="https://live.staticflickr.com/65535/51594741417_9e46f252e2_q.jpg",SVT 1
+https://svt-live-event.akamaized.net/l4/world/1417161-001W/hls.m3u8
+#EXTINF:0 group-title="Sweden"tvg-logo="https://live.staticflickr.com/65535/51596451540_7965204ce6_q.jpg",SVT 2
+
+
+
+#### Switzerland ####
+#EXTINF:0 group-title="Switzerland"tvg-logo="https://live.staticflickr.com/65535/52594880233_ce872e9270_q.jpg",SRF 1
+
+#EXTINF:0 group-title="Switzerland"tvg-logo="https://live.staticflickr.com/65535/52594594910_60a2b80528_q.jpg",SRF 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
+#EXTINF:0 group-title="Switzerland"tvg-logo="https://live.staticflickr.com/65535/51596451915_020274d9a6_q.jpg",RTS 1
+
+#EXTINF:0 group-title="Switzerland"tvg-logo="https://live.staticflickr.com/65535/51596222254_994ea096fc_q.jpg",RTS 2
+
+#EXTINF:0 group-title="Switzerland"tvg-logo="https://live.staticflickr.com/65535/52594170681_b66b9abf9c_q.jpg",RSI 1
+
+#EXTINF:0 group-title="Switzerland"tvg-logo="https://live.staticflickr.com/65535/52593686212_211e7a7ae2_q.jpg",RSI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
+
+
+
+#### Ukraine ####
+#EXTINF:0 group-title="Ukraine"tvg-logo="",UA: Pershyi
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:0 group-title="Ukraine"tvg-logo="",UA:Kultura
+
+
+
+#### United Kingdom ####
+#EXTINF:0 group-title="United Kingdom"tvg-logo="https://live.staticflickr.com/65535/51595781063_dc7f4059e6_q.jpg",BBC One
+https://clm.ahimas.openstream.es/LB-Opensport/smil:106_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#EXTINF:0 group-title="United Kingdom"tvg-logo="https://live.staticflickr.com/65535/51595781063_dc7f4059e6_q.jpg",BBC One NI
+http://51.171.169.203:9090/stream/channelid/2112425395?profile=pass
+#EXTINF:0 group-title="United Kingdom"tvg-logo="https://live.staticflickr.com/65535/51594743677_8c780c1f24_q.jpg",BBC Two
+https://clm.ahimas.openstream.es/LB-Opensport/smil:471_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#http://51.171.169.203:9090/stream/channelid/2044470292?profile=pass
+#EXTINF:0 group-title="United Kingdom"tvg-logo="",BBC Three
+
+#EXTINF:0 group-title="United Kingdom"tvg-logo="",BBC Four
+
+#EXTINF:0 group-title="United Kingdom"tvg-logo="",BBC World
+
+#EXTINF:0 group-title="United Kingdom"tvg-logo="",BBC Red Button +
+
+#EXTINF:0 group-title="United Kingdom"tvg-logo="",CBBC
+https://clm.ahimas.openstream.es/LB-Opensport/smil:158_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+#http://51.171.169.203:9090/stream/channelid/429433155?profile=pass
+#EXTINF:0 group-title="United Kingdom"tvg-logo="",CBeebies
+
+#EXTINF:0 group-title="United Kingdom"tvg-logo="",BBC News
+https://clm.ahimas.openstream.es/LB-Opensport/smil:137_HD.smil/playlist.m3u8?LIVE&type=1&operator=finetwork
+
+#EXTINF:0 group-title="United Kingdom"tvg-logo="https://live.staticflickr.com/65535/51595778743_aaec9e3c4b_q.jpg",S4C
+https://v2.ww.live.s4c-cdn.co.uk/out/v1/S4C/WW_TX/ww_live/ww-tx-hls.m3u8
+#EXTINF:0 group-title="United Kingdom"tvg-logo="https://live.staticflickr.com/65535/51595778743_aaec9e3c4b_q.jpg",S4C geo
+
+
+
+
+#### USA ####
+#EXTINF:0 group-title="USA"tvg-logo="",NBC
+
+#EXTINF:0 group-title="USA"tvg-logo="",NBC 10
+
+
+
+
+
+
+
